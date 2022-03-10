@@ -18,6 +18,10 @@ becomes
 /* Any other scss content */
 ```
 
+## Postcss 8.x
+
+Adapted to the new plugin [API 8.x](https://github.com/postcss/postcss-plugin-boilerplate)
+
 ## Usage
 
 Simple usage can be inferred from the tests:
